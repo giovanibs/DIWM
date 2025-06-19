@@ -1,5 +1,4 @@
-# DIWM
-Diablo Immortal Window Manager
+# DIWM - Diablo Immortal Window Manager
 =======================================
 
 🔥 Sobre
@@ -36,4 +35,4 @@ Giovani Bulian Simioni
 - ❌ Proibida a venda sem autorização do autor.
 
 📬 Contato
-Discord: __giovani__
+Discord: \_\_giovani\_\_
